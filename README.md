@@ -6,7 +6,7 @@ I’m a Computer Science and Engineering student specializing in IoT at **CHRIST
 
 I’m interested in the intersection of technology, product development, and business — turning ideas into useful, working products.
 
-**Portfolio:** [Coming Soon] · **LinkedIn:** [Your LinkedIn](YOUR_LINKEDIN_URL) · **Email:** YOUR_EMAIL
+**Portfolio:** [Coming Soon] · **LinkedIn:** www.linkedin.com/in/abhinav-jadhav- · **Email:** abhinavjadhav27005@gmail.com
 
 ---
 
