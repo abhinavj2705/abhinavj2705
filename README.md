@@ -54,4 +54,4 @@ I enjoy collaborating with people, learning through hands-on projects, and contr
 
 I'm always interested in connecting with developers, exploring product ideas, collaborating on projects, and learning from people building interesting things.
 
-[LinkedIn](www.linkedin.com/in/abhinav-jadhav-) · [GitHub](YOUR_GITHUB_PROFILE_URL) · [Email](abhinavjadhav27005@gmail.com)
+[LinkedIn](www.linkedin.com/in/abhinav-jadhav-) · [GitHub](https://github.com/abhinavj2705/) · [Email](abhinavjadhav27005@gmail.com)
