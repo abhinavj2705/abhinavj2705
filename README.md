@@ -36,7 +36,8 @@ I’m interested in the intersection of technology, product development, and bus
 
 I work with technologies across software development, web applications, and IoT.
 
-`C/C++` · `Typescript` · `Node` · `Databases` · `Git & GitHub` · `IoT`
+`C/C++` · `Typescript` · `Node.js` · `Firebase` · `MongoDB` · `IoT` .`Docker` .`Express` .`PostgreSQL` . `Python` .`React`,
+`Java`.
 
 
 
