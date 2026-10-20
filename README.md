@@ -30,15 +30,15 @@ I’m interested in the intersection of technology, product development, and bus
 | **DevSoc Website** | Website development connected to the developer community at CHRIST University. |
 | **Water Level Sensor** | An IoT-oriented project involving water-level sensing. |
 
-> Add your actual GitHub repository links to each project as they become available.
+
 
 ## Technologies & Tools
 
 I work with technologies across software development, web applications, and IoT.
 
-`Programming Languages` · `Frontend Development` · `Backend Development` · `Databases` · `Git & GitHub` · `IoT`
+`C/C++` · `Typescript` · `Node` · `Databases` · `Git & GitHub` · `IoT`
 
-*Replace these categories with the exact languages, frameworks, and tools you have used.*
+
 
 ## Beyond Coding
 
